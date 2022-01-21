@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.bsocquet.kata.fizzbuzz.v1.FizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-18T01:04:34" hostname="DESKTOP-GSMGBRP" time="0.065">
+  <properties/>
+  <testcase name="When given number 1, then return String value of 1" classname="net.bsocquet.kata.fizzbuzz.v1.FizzBuzzTest" time="0.065"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
